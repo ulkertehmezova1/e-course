@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/e-course/static/css/main.c2738421.css",
+    "main.js": "/e-course/static/js/main.7214c45b.js",
+    "static/media/Layer 2 (1).svg": "/e-course/static/media/Layer 2 (1).b8306d71c6d2cff56f95be05b0e43bd7.svg",
+    "index.html": "/e-course/index.html",
+    "main.c2738421.css.map": "/e-course/static/css/main.c2738421.css.map",
+    "main.7214c45b.js.map": "/e-course/static/js/main.7214c45b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2738421.css",
+    "static/js/main.7214c45b.js"
+  ]
+}
