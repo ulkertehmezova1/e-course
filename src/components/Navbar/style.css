@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #f5f5f5;
+  padding: 10px 40px;
+}
+
+.btn {
+  all: unset;
+  padding: 12px 40px 12px 40px;
+  border-radius: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.navbar-brand {
+  margin-right: auto;
+  margin-left: 10px;
+}
+
+.btn-signup {
+  position: absolute;
+  color: #FFFFFF;
+  background-color: #00BBA4;
+  right: 40px;
+}
+
+.btn-login {
+  color: #00BBA4;
+}
+
+.navbar-collapse.collapse {
+  display: block;
+}
+
+@media (max-width: 991px) {
+  .navbar-collapse.collapse {
+    overflow: hidden;
+  }
+  .btn-signup {
+    color: #FFFFFF;
+    background-color: #00BBA4;
+    position: -webkit-sticky;
+    position: sticky;
+  }
+  .navbar-collapse.active {
+    height: 100vh !important;
+  }
+}
+.navbar-collapse {
+  transition: 0.6s all ease-in-out;
+  height: 0 !important;
+}/*# sourceMappingURL=style.css.map */

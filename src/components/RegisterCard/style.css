@@ -1,0 +1,34 @@
+.container-reg{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+
+   /* justify-content: center; */
+    
+}
+
+.div-header{
+max-width: 550px;
+color: #1A1D1C;
+font-size: 3rem;
+font-weight: 600;
+}
+
+.div-parag{
+
+   max-width: 488px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #1A1D1C;
+}
+.btn-reg{
+    all: unset;
+    color: #FFFFFF;
+    background-color: #00BBA4;
+    padding: 12px 20px 12px 20px;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
